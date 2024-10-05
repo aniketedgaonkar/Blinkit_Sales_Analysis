@@ -12,3 +12,14 @@ o	Products selling based on fat contents <br>
 o	Revenue generated based on outlet size? <br>
 ## Dashboard
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/2eb2a5cc-337d-4e96-9467-aa3a3f8f8b48)
+## Technologies Used:-
+Power BI: For data visualization and dashboard creation.
+Data Sources: Utilized sales data from Blinkit Excel file to derive meaningful insights.
+## Project Insights 
+1. Total Sales is around 1.20 Millions while average sales is 141 $.
+2. Average ratings by customers is approx. 4, from here we have to think on how to increase ratings atleast upto 4.5 and increase customers satisfaction.
+3. From fat content charts, we can say that people choosing low fat content items as compared to regular.
+4. We are getting maximum revenue from Tier 3 outlet locations, so we have to maintain our services in Tier 3 locations and along with that focus on Tier 2 & 1 locations why not generating good revenue.
+5. Maximum People ordering fruit, Vegetables, sancks and household items.
+6. Outlet established around 2017-18 generating good revenue as compared to others.
+7. Medium Size outlet sales is high than high and small size outlets
