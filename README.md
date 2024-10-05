@@ -4,12 +4,12 @@ Blinkit wants to create sales analysis based on different outlet opened from 201
 ## Dataset used
 <a href="https://github.com/aniketedgaonkar/Blinkit_Sales_Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
 ## Questions (KPIs)
-o	What are total, Avg sales?<b>
-o	Average rating by customers
-o	Which product types are selling more?
-o	Which outlet locations are generating maximum revenue?
-o	Products selling based on fat contents
-o	Revenue generated based on outlet size?
+o	What are total, Avg sales? <br>
+o	Average rating by customers <br>
+o	Which product types are selling more? <br>
+o	Which outlet locations are generating maximum revenue? <br>
+o	Products selling based on fat contents <br>
+o	Revenue generated based on outlet size? <br>
 
 
 
