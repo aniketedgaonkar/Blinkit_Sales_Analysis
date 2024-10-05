@@ -13,7 +13,7 @@ o	Revenue generated based on outlet size? <br>
 ## Dashboard
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/2eb2a5cc-337d-4e96-9467-aa3a3f8f8b48)
 ## Technologies Used:-
-Power BI: For data visualization and dashboard creation.
+Power BI: For data visualization and dashboard creation.<br>
 Data Sources: Utilized sales data from Blinkit Excel file to derive meaningful insights.
 ## Project Insights 
 1. Total Sales is around 1.20 Millions while average sales is 141 $.
