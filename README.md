@@ -10,6 +10,5 @@ o	Which product types are selling more? <br>
 o	Which outlet locations are generating maximum revenue? <br>
 o	Products selling based on fat contents <br>
 o	Revenue generated based on outlet size? <br>
-
-
-
+## Dashboard
+[blinkit dashboard.pdf](https://github.com/user-attachments/files/17266334/blinkit.dashboard.pdf)
